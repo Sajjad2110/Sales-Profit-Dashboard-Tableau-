@@ -24,6 +24,9 @@ This interactive Tableau dashboard provides an in-depth analysis of **sales, pro
 2. **Open** it using **Tableau Desktop** or **Tableau Public**.  
 3. **Interact** with filters and visualizations to explore insights!  
 
+📸 Dashboard Preview
+https://github.com/Sajjad2110/Sales-Profit-Dashboard-Tableau-/blob/main/Sales%20Dashboard.png
+
 ## 🔄 Future Improvements  
 - **Optimize furniture segment pricing** to reduce losses.  
 - **Improve regional targeting strategies** for underperforming areas.  
