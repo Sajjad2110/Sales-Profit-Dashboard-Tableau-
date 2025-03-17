@@ -20,7 +20,7 @@ This interactive Tableau dashboard provides an in-depth analysis of **sales, pro
 - **📌 Control Visibility with Filter Icons** – Clean UI by allowing users to toggle filters ON/OFF.  
 
 ## 📥 How to Use  
-1. **Download** the `Sales-Profit-Dashboard.twbx` file from this repository.  
+1. **Download** the `Sales-Profit-Dashboard.twbx` file.
 2. **Open** it using **Tableau Desktop** or **Tableau Public**.  
 3. **Interact** with filters and visualizations to explore insights!  
 
